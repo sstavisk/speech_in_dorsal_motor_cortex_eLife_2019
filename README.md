@@ -5,6 +5,6 @@ The scripts in the top directory are named according to what figure in the paper
 
 Dependencies are listed at the top of each script. In general, you will need to put /helper_functions and its subdirectories to your MATLAB path. A few of the figure scripts require additional code packs (for example, for dPCA and jPCA); I've provided the URLs and paper references for that code. 
 
-These scripts will not run without the underlying study datasets, which will be hosted by eLife. A list of all the requisite datasets is provided in list_of_datasets.m.
+These scripts will not run without the underlying study datasets, which will be hosted by eLife. A list of all the requisite datasets is provided in list_of_datasets.txt.
 
 Sergey D. Stavisky, December 2019, Stanford University
