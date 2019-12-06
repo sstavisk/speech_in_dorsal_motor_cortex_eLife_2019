@@ -320,7 +320,7 @@ cmaph.TickLabels{1} = MDminMax(1);
 cmaph.TickLabels{end} = MDminMax(end);
 cmaph.Label.String = 'Modulation Depth (Hz)';
 xlabel( 'Lateral      (mm)      Medial' )
-ylabel( 'Anterior      (mm)      Posterior' )
+ylabel( 'Posterior      (mm)      Anterior' )
  
 
 % --------------------------------------------------------------------------------------------------------
